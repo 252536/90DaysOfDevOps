@@ -17,7 +17,7 @@ Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! T
      - **What is Automation, Scaling, and Infrastructure:**
        
        
-     - **Why DevOps is Important:**
+     -  **Why DevOps is Important:**
        
        
 
